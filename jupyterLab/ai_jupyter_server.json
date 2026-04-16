@@ -1,0 +1,7 @@
+{
+  "ServerApp": {
+    "jpserver_extensions": {
+      "ai_jupyter_server": true
+    }
+  }
+}
